@@ -2,6 +2,9 @@
 This is my project Retail Sales Dataset.
 This project involves analyzing a retail sales dataset using **Microsoft Excel** to derive key insights. The goal of the analysis was to explore the data and generate meaningful insights that can help the retail business make data-driven decisions. 
 
+![image](https://github.com/user-attachments/assets/cb2d9010-7871-42f6-a55c-8c693eda05df)
+
+
 ## 🛠️ Tools Used
 - **Microsoft Excel** 📈
 - Excel Functions:
@@ -52,9 +55,13 @@ Here are some visualizations I created using Pivot Tables and Charts:
 
 ![Pivot Table Example](path-to-your-image.png)  
 *Pivot Table summarizing sales by region.*
+![image](https://github.com/user-attachments/assets/45aa5ec5-f27d-4009-9eb4-95890402009d)
+
 
 ![Sales Trend Chart](path-to-your-image.png)  
 *Sales trend over the past year.*
+![image](https://github.com/user-attachments/assets/1a60d34d-8084-4cda-87d5-744397b51468)
+
 
 ## 📂 Project Files
 - **Dataset**: [retail_sales_data.xlsx](path-to-your-dataset-file.xlsx)
