@@ -64,3 +64,4 @@ Here are some visualizations I created using Pivot Tables and Charts:
 1. Download the dataset and the Excel file.
 2. Open the **sales_analysis.xlsx** in Excel.
 3. Explore the **Pivot Tables**, **Charts**, and **Slicers** to interact with the data.
+# I used Chatgpt to write this.
